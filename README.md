@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="" width="20%" />
+  <img src="https://github.com/DennisDev2911/NETFLIX---FRENTE/blob/main/img/img/logo%20(4).png?raw=true" width="20%" />
 </p>
 
 ## 💻 Projeto
